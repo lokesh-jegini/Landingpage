@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/lokesh-jegini/Landingpage/static/css/main.ea017225.css",
+    "main.js": "/lokesh-jegini/Landingpage/static/js/main.2046c4ea.js",
+    "static/js/787.3ddd7c1b.chunk.js": "/lokesh-jegini/Landingpage/static/js/787.3ddd7c1b.chunk.js",
+    "static/media/weoffer-bg.svg": "/lokesh-jegini/Landingpage/static/media/weoffer-bg.df21430bf3583c081995.svg",
+    "static/media/image 57.png": "/lokesh-jegini/Landingpage/static/media/image 57.244558ca99c225ce8462.png",
+    "static/media/revicons.eot": "/lokesh-jegini/Landingpage/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/lokesh-jegini/Landingpage/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/lokesh-jegini/Landingpage/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/lokesh-jegini/Landingpage/index.html",
+    "main.ea017225.css.map": "/lokesh-jegini/Landingpage/static/css/main.ea017225.css.map",
+    "main.2046c4ea.js.map": "/lokesh-jegini/Landingpage/static/js/main.2046c4ea.js.map",
+    "787.3ddd7c1b.chunk.js.map": "/lokesh-jegini/Landingpage/static/js/787.3ddd7c1b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea017225.css",
+    "static/js/main.2046c4ea.js"
+  ]
+}
